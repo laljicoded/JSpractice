@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.containers{
+    margin: 40px;
+    
+    width: 95%;
+    height: 90vh;
+    background-image: linear-gradient(to right ,rgb(67, 175, 218), rgb(221, 221, 214));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.swiper{
+    width: 80%;
+    height: fit-content;
+}
+.swiper-slide {
+    text-align: center;
+    width: 100%;
+}
+
+
+
